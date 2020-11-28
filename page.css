@@ -2,9 +2,9 @@ body{
      background-color:#AAAAAA;
    }
 .header{
-     width:940px;
-     margin:0  auto;
      background-color:#FFFFFF;
+     width: 940px;
+     margin: 0 auto;
      }
 .nav{
      float:right;
