@@ -10,3 +10,8 @@ body{
 .nav{
      float:right;
      }
+.nav a{
+     color"#666;
+     font:bold 16px;
+     text-decoration:none;
+     }
