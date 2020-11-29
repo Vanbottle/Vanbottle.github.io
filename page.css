@@ -1,7 +1,7 @@
 body{
      background-color:#AAAAAA;
    }
-.header{
+.w{
      background-color:#FFFFFF;
      width: 940px;
      height: 600px;
@@ -17,6 +17,6 @@ body{
      }
 .word a{
      color:#000000;
-     font:italic bold 30px;
+     font:italic bold 150px;
      text-decoration:none;
      }
