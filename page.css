@@ -15,3 +15,8 @@ body{
      font:bold 16px;
      text-decoration:none;
      }
+.word a{
+     color:#000000;
+     font:italic bold 30px;
+     text-decoration:none;
+     }
