@@ -16,7 +16,8 @@ body{
 .women img{
      width: 580px;
      height: 460px;
-     margin: 0 auto;
+     margin: 0 ;
+     padding: 50px;
      }
 .word {
      float:right;
