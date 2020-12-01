@@ -14,6 +14,7 @@ body{
      text-decoration:none;
      }
 .word {
+     float:right;
      color:#000000;
      font:italic bold 350px;
      text-decoration:none;
