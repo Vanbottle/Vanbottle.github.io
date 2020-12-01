@@ -13,12 +13,12 @@ body{
      font:bold 16px;
      text-decoration:none;
      }
-.women img{
+women img{
      width: 280px;
      height: 460px;
      margin: 0 auto;
      }
-.word {
+.word a{
      float:right;
      color:#000000;
      font:italic bold 350px;
