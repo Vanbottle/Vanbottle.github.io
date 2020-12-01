@@ -1,7 +1,7 @@
 body{
      background-color:#AAAAAA;
    }
-.w{
+.bg{
      background-color:#FFFFFF;
      width: 940px;
      height: 600px;
@@ -9,14 +9,12 @@ body{
      }
 .nav{
      float:right;
-     }
-.nav a{
      color:#666;
      font:bold 16px;
      text-decoration:none;
      }
-.word a{
+.word {
      color:#000000;
-     font:italic bold 150px;
+     font:italic bold 350px;
      text-decoration:none;
      }
