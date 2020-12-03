@@ -14,7 +14,7 @@ body{
      text-decoration:none;
      }
 .women img{
-     width: 280px;
+     width: 230px;
      height: 550px;
      margin: 0 auto;
      position:relative; 
@@ -23,8 +23,8 @@ body{
 .word a{
      color:#000000;
      font:italic bold;
-     font-size: 250px
+     font-size: 100px;
      text-decoration:none;
-     position:relative; 
+     position: absolute; 
      left: 180px; top:130px;
      }
