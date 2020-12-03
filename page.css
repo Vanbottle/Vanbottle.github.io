@@ -20,9 +20,9 @@ body{
      position:relative; 
      left: 30px; top:100px;
      }
-hhhhword a{
-     float:right;
+.word a{
+     float:center;
      color:#000000;
-     font:italic bold 350px;
+     font:italic bold 250px;
      text-decoration:none;
      }
