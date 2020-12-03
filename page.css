@@ -17,7 +17,8 @@ body{
      width: 280px;
      height: 460px;
      margin: 0 auto;
-     background-position: 20px 140px;
+     position:absolute; 
+     left:20px; top:130px;
      }
 hhhhword a{
      float:right;
