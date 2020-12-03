@@ -22,9 +22,10 @@ body{
      }
 .word a{
      color:#000000;
-     font:italic bold;
-     font-size: 100px;
+     font-style:italic;
+     font-weight:bold;
+     font-size: 80px;
      text-decoration:none;
      position: absolute; 
-     left: 180px; top:130px;
+     left: 250px; top:70px;
      }
