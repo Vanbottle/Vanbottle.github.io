@@ -32,4 +32,6 @@ body{
 .step {
      width: 106px;
      height: 111px;
+     position: absolute; 
+     left: 780px; top:90px;
      }
