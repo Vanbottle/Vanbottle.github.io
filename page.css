@@ -27,7 +27,7 @@ body{
      font-size: 65px;
      text-decoration:none;
      position: absolute; 
-     left: 280px; top:70px;
+     left: 300px; top:70px;
      letter-spacing:8px;
      }
 .step {
@@ -36,7 +36,7 @@ body{
      }
 .one{
      position: absolute; 
-     left: 350px; top:210px;
+     left: 480px; top:350px;
      }
 .two{
      position: absolute; 
