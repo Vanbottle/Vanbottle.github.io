@@ -27,16 +27,16 @@ body{
      font-size: 65px;
      text-decoration:none;
      position: absolute; 
-     left: 300px; top:70px;
+     left: 300px; top:60px;
      letter-spacing:8px;
      }
 .step {
-     width: 125px;
-     height: 125px;
+     width: 135px;
+     height: 135px;
      }
 .one{
      position: absolute; 
-     left: 480px; top:350px;
+     left: 480px; top:150px;
      }
 .two{
      position: absolute; 
