@@ -32,6 +32,24 @@ body{
 .step {
      width: 125px;
      height: 125px;
+     }
+.one{
+     position: absolute; 
+     left: 720px; top:430px;
+     }
+.two{
+     position: absolute; 
+     left: 720px; top:430px;
+     }
+.three{
+     position: absolute; 
+     left: 720px; top:430px;
+     }
+.four{
+     position: absolute; 
+     left: 720px; top:430px;
+     }
+.five{
      position: absolute; 
      left: 720px; top:430px;
      }
