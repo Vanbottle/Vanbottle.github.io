@@ -30,8 +30,8 @@ body{
      letter-spacing:8px;
      }
 .step {
-     width: 106px;
-     height: 111px;
+     width: 125px;
+     height: 125px;
      position: absolute; 
-     left: 720px; top:190px;
+     left: 720px; top:230px;
      }
