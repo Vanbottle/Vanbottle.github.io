@@ -20,7 +20,7 @@
      <a>不要停下，</a>
      <a><br>&emsp;&emsp;继续前进...</br></a>
    </div>
-  <div class="step">
+   <div class="step">
      <div class="one">
        <img src="img/壹.png " alt="壹">
      </div> 
@@ -36,7 +36,18 @@
      <div class="five">
        <img src="img/伍.png " alt="伍">
      </div> 
-  </div>
+   </div>
+  <input type="button" id="praise" value="赞(0)">
+  <script type="text/javascript">
+    function zan(){
+        var number=0;
+        return function(){
+            this.value="赞("+(++number)+")";
+        }
+     }
+    var zz=zan();
+    document.getElementById('praise').onclick=zz;
+ </script>
  </div>
 </body>
 
